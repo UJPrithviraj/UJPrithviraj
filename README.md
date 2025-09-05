@@ -10,7 +10,7 @@
 
 ###
 
-👨‍💻 **Skills**  : Coding (Python)<br> 📚 **Now** : I'm currently learning the basics of Data structures and Algorimths for Python<br>🎯 **Goals** : I would like to code an REMARKABLE Project that i could have never even dreamt of.<br>🌐 **Personal Website** :  <a href="https://ujprithviraj.github.io" target="_blank">my portfolio</a></p>  
+👨‍💻 **Skills**  : Coding (Python)<br> 📚 **Now** : I'm currently learning the basics of Data structures and Algorimths for Python<br>🎯 **Goals** : I would like to code an REMARKABLE Project that i could have never even dreamt of.<br>🌐 **Personal Website** :  <a href="https://ujprithviraj.github.io">my portfolio</a></p>  
 
 ###
 
